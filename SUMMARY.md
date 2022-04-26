@@ -16,3 +16,6 @@
 * [🎯 Posicionamiento](posicionamiento.md)
 * [🎯 z-index y apilamiento](z-index-y-apilamiento.md)
 * [🎯 Unidades de medidas](unidades-de-medidas.md)
+* [🎯 Responsive Design](responsive-design.md)
+* [🎯 ¿Qué son y para que sirven las arquitecturas css?](que-son-y-para-que-sirven-las-arquitecturas-css.md)
+* [🎯 OOCSS, BEM, SMACSS, ITCSS y Atomic Design](oocss-bem-smacss-itcss-y-atomic-design.md)
